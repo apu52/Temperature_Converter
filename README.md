@@ -42,7 +42,7 @@ https://github.com/apu52/Temperature_Converter/assets/114172928/266bcd52-a059-48
     git clone https://github.com/apu52/Temperature_Converter
     ```
 
- - **Step 2:-**  Go inside Stopwatch Directory.
+ - **Step 2:-**  Go inside Temperature_Converter Directory.
     ```bash 
     cd Temperature_Converter
     ```
